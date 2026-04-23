@@ -586,12 +586,12 @@ Segmento 2: Doctores 
 
 - Entrevista a Pacientes con Diabetes (Segmento 1)
 	
-	Nombre: Marycruz Peres
+	Nombre: Marycruz Pérez
 	Edad: 27
 	
 	![](./Informe/assets/CapturaEntrevista3.png)
 	
-	[Link de entrevista]([https://youtu.be/rn8sOZuT5MM](https://drive.google.com/file/d/1KPruG_Rz3B9QFQu-2GltK_0_WK3tAzB5/view?usp=sharing))
+	[Link de entrevista](https://youtu.be/rn8sOZuT5MM](https://drive.google.com/file/d/1KPruG_Rz3B9QFQu-2GltK_0_WK3tAzB5/view?usp=sharing)
 	
 	Resumen de la entrevista a paciente
 	
