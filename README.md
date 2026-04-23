@@ -584,6 +584,19 @@ Segmento 2: Doctores 
 	- Recomendaciones: Le gustaría que una aplicación le sugiera recetas y recomendaciones personalizadas.
 	- Compartir Datos: Estaría dispuesto a compartir sus datos de salud con su médico a través de una aplicación para facilitar las consultas.
 
+- Entrevista a Pacientes con Diabetes (Segmento 1)
+	
+	Nombre: Marycruz Peres
+	Edad: 27
+	
+	![](./Informe/assets/CapturaEntrevista3.png)
+	
+	[Link de entrevista]([https://youtu.be/rn8sOZuT5MM](https://drive.google.com/file/d/1KPruG_Rz3B9QFQu-2GltK_0_WK3tAzB5/view?usp=sharing))
+	
+	Resumen de la entrevista a paciente
+	
+	Marycruz, una ama de casa de 27 años diagnosticada con diabetes hace un año, presenta un perfil de usuario que actualmente gestiona su salud de manera reactiva y tradicional. Durante la entrevista, revela que no utiliza ninguna aplicación especializada, limitándose al uso de alarmas en su celular para recordar la toma de medicamentos y acudiendo directamente a Essalud solo cuando experimenta malestar. Su interés por la propuesta de GlucoSmart radica principalmente en la accesibilidad y la centralización de datos, ya que considera que los dispositivos físicos de medición son costosos y el proceso de trasladarse a un hospital es tedioso. Una de sus respuestas más destacadas se refiere a la funcionalidad de compartir datos en tiempo real con su médico; Marycruz valora esto enormemente porque evitaría la redundancia de tener que explicar su historial clínico desde cero en cada consulta, un problema recurrente en el sistema de seguros. Respecto a la medición de glucosa, señala que tener esta herramienta en el móvil sería un cambio radical en su calidad de vida, permitiéndole estar más alerta ante la necesidad de insulina antes de sufrir una descompensación. Además, sugiere la incorporación de servicios de enfermería a domicilio para inyecciones, inspirada en las facilidades que existieron durante la pandemia. En conclusión, Marycruz se muestra totalmente dispuesta a adoptar la aplicación como su herramienta principal de gestión, siempre que se garantice la transparencia y seguridad de sus datos médicos, transformando su actual control manual y fragmentado en un monitoreo proactivo y eficiente.
+
 - Entrevista a medicos (Segmento 2
 	
 	Nombre: Walter
@@ -618,6 +631,8 @@ Segmento 2: Doctores 
 	- Dispositivos: Recomienda glucómetros de punción digital.
 	- Datos en gráficos: Considera que ver tendencias gráficas de glucosa es muy útil para entender la evolución del paciente rápidamente. Incluso lo ve como indicador de calidad en la práctica médica.
 	- Alertas inmediatas: Considera esencial recibir avisos de hipoglucemia para la prevención de daños cerebrales, cardíacos, hepáticos y renales, además de riesgo de muerte.
+
+ 
 
 ### <a name="_toc226040401"></a>2.2.3 Analisis de entrevista
 
