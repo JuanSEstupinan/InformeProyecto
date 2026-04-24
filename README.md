@@ -671,7 +671,7 @@ Se concluye con una recepción muy positiva hacia la propuesta de GlucoSmart, ya
 	Nombres y Apellidos: Medalith Olortegui
 	Distrito: Comas
 	
-	![](./Informe/assets/CapturaEntrevista6.png)
+	![](./Informe/assets/CapturaEntrevista7.png)
 	
 	[Link de la entrevista](https://drive.google.com/file/d/1vZu3e05MQSLtU1CQXCX58IY2vh1Mb6QI/view?usp=sharing)
 	
