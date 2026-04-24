@@ -666,7 +666,18 @@ Para que una herramienta como GlucoSmart sea adoptada, la especialista pone cond
 
 Se concluye con una recepción muy positiva hacia la propuesta de GlucoSmart, ya que ve en la aplicación una solución al problema de la adherencia del paciente y una vía directa para reducir hospitalizaciones y costos operativos mediante la detección precoz.
 
- 
+- Entrevista a medicos (Segmento 2)
+	
+	Nombres y Apellidos: Medalith Olortegui
+	Distrito: Comas
+	
+	![](./Informe/assets/CapturaEntrevista6.png)
+	
+	[Link de la entrevista](https://drive.google.com/file/d/1vZu3e05MQSLtU1CQXCX58IY2vh1Mb6QI/view?usp=sharing)
+	
+	- Resumen de la entrevista a paciente
+	
+La entrevista realizada a la obstetra Medalith Olórtegui, especialista en EsSalud con experiencia en el manejo de pacientes con diabetes gestacional, revela una postura técnica que enfatiza la necesidad de integrar el rigor clínico con las soluciones digitales. Una de sus opiniones más contundentes es que resulta imposible realizar ajustes terapéuticos precisos basándose únicamente en datos manuales proporcionados por el paciente, ya que la evaluación física y clínica directa es el dato principal e innegociable para un diagnóstico acertado. La especialista identifica la "falta de adherencia" como el punto débil más crítico en el sistema de salud actual, señalando que, aunque se brinde el mejor tratamiento, el incumplimiento por parte del paciente anula los esfuerzos médicos, por lo que ve en la tecnología un puente para vigilar este cumplimiento de manera más cercana. Respecto a la aplicación GlucoSmart, su propuesta central para un mejor funcionamiento radica en la integración de datos entre distintas instituciones de salud, permitiendo que un médico pueda consultar el historial y las variaciones glucémicas del paciente independientemente de si fue atendido previamente en el Ministerio de Salud (MINSA) o en clínicas privadas. Propone que la plataforma no solo se limite al registro, sino que funcione como una herramienta de farmacovigilancia y analítica en tiempo real que conecte directamente al paciente con el sistema de teleconsultas, especialmente para el seguimiento de casos ya estabilizados. Además, sugiere que la aplicación debe reforzar la educación del usuario mediante información clara sobre signos y síntomas de alarma, pero siempre bajo un diseño que esté estrictamente anclado a los protocolos clínicos del mundo real y que garantice la privacidad absoluta de los datos. Para la especialista, el valor final de la aplicación reside en su capacidad de cerrar brechas de tiempo y distancia, reduciendo costos operativos y complicaciones severas al permitir decisiones médicas basadas en una trazabilidad real y continua, transformándose así en un soporte vital tanto para el personal de salud como para el bienestar directo del paciente.
 
 ### <a name="_toc226040401"></a>2.2.3 Analisis de entrevista
 
