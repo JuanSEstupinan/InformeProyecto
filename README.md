@@ -634,11 +634,11 @@ Segmento 2: Doctores 
 
  - Entrevista a medicos (Segmento 2)
 	
-	Nombres y Apellidos: Angela Damaris Prado Obregón
-	Edad: 23 años
+	Nombres y Apellidos: Angela Damaris Prado Obregón \n
+	Edad: 23 años \n
 	Distrito: Chancay
 	
-	![](./Informe/assets/CapturaEntrevista4.png)
+	![](./Informe/assets/CapturaEntrevista6.png)
 	
 	[Link de la entrevista](https://drive.google.com/file/d/1YaL28agujd9A1uq6Nd-U9xPmYzcVBkG6/view?usp=sharing)
 	
