@@ -241,6 +241,10 @@ Consolidarnos para el año 2030 como la plataforma referente a nivel 
 
 ### <a name="_toc226040385"></a>1.1.2. Perfiles de integrantes del equipo
 
+Nombre: Juan Sebastian Estupiñan Olortegui
+Edad: 20
+Carrera: Ingeniería de Software
+Descripción: Estudiante de Ing. de Software con conocimientos en diversos lenguajes de programación como C++, Java y Python. Activo en participación y trabajo en equipo.
 
 ## <a name="_toc226040386"></a>1.2. Solution Profile
 
