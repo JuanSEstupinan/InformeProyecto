@@ -217,9 +217,9 @@ Contenido
 
 # <a name="_toc226040381"></a>Student Outcome
 
-| Criterio Especifico | Acciones Realizadas | Conclusiones |
-| :------------------ | :------------------ | :----------- |
-|                     |                     |              |
+| Integrante | Criterio Especifico | Acciones Realizadas | Conclusiones |
+| :--------- | :------------------ | :------------------ | :----------- |
+| Juan Estupiñan | Entrevistas | Realización de Entrevistas y Analisis | Se analizó varias entrevistas con diversas opiniones de los entrevistados |
 
 # <a name="_toc226040382"></a>Capitulo I: Introduction
 
@@ -241,6 +241,7 @@ Consolidarnos para el año 2030 como la plataforma referente a nivel 
 
 ### <a name="_toc226040385"></a>1.1.2. Perfiles de integrantes del equipo
 
+![](./Informe/assets/3_foto4.jpg)
 Nombre: Juan Sebastian Estupiñan Olortegui
 Edad: 20
 Carrera: Ingeniería de Software
