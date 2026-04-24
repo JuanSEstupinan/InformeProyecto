@@ -586,7 +586,7 @@ Segmento 2: Doctores 
 
 - Entrevista a Pacientes con Diabetes (Segmento 1)
 	
-	Nombre: Marycruz Pérez \n
+	Nombre: Marycruz Pérez
 	Edad: 27
 	
 	![](./Informe/assets/CapturaEntrevista5.png)
@@ -634,8 +634,8 @@ Segmento 2: Doctores 
 
  - Entrevista a medicos (Segmento 2)
 	
-	Nombres y Apellidos: Angela Damaris Prado Obregón \n
-	Edad: 23 años \n
+	Nombres y Apellidos: Angela Damaris Prado Obregón
+	Edad: 23 años
 	Distrito: Chancay
 	
 	![](./Informe/assets/CapturaEntrevista6.png)
