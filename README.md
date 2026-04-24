@@ -586,7 +586,7 @@ Segmento 2: Doctores 
 
 - Entrevista a Pacientes con Diabetes (Segmento 1)
 	
-	Nombre: Marycruz Pérez
+	Nombre: Marycruz Pérez \n
 	Edad: 27
 	
 	![](./Informe/assets/CapturaEntrevista5.png)
@@ -631,6 +631,40 @@ Segmento 2: Doctores 
 	- Dispositivos: Recomienda glucómetros de punción digital.
 	- Datos en gráficos: Considera que ver tendencias gráficas de glucosa es muy útil para entender la evolución del paciente rápidamente. Incluso lo ve como indicador de calidad en la práctica médica.
 	- Alertas inmediatas: Considera esencial recibir avisos de hipoglucemia para la prevención de daños cerebrales, cardíacos, hepáticos y renales, además de riesgo de muerte.
+
+ - Entrevista a medicos (Segmento 2)
+	
+	Nombres y Apellidos: Angela Damaris Prado Obregón
+	Edad: 23 años
+	Distrito: Chancay
+	
+	![](./Informe/assets/CapturaEntrevista4.png)
+	
+	[Link de la entrevista](https://drive.google.com/file/d/1YaL28agujd9A1uq6Nd-U9xPmYzcVBkG6/view?usp=sharing)
+	
+	- Resumen de la entrevista a paciente
+	
+	1. Desafío
+Aquí se enfatiza que los métodos actuales dependen de datos manuales que suelen ser imprecisos o incompletos. Esto genera una dependencia del ensayo y error, especialmente en enfermedades crónicas, donde la falta de trazabilidad impide tomar decisiones informadas desde el primer momento.
+
+2. Importancia del Contexto sobre el Dato
+Una de las afirmaciones es que un número sin contexto pierde su valor clínico. Para la entrevistada, no basta con saber el nivel de glucosa; sino que también es vital conocer la dieta, la actividad física y la medicación concomitante para interpretar correctamente el estado del paciente.
+
+3. Centralización
+La dispersión de la información en diferentes instituciones como hospitales y clínicas, es vista como una barrera crítica. La especialista valida que una plataforma centrada en el paciente que unifique este historial facilitaría enormemente el seguimiento médico.
+
+4. Analítica y Farmacovigilancia
+Aquí la entrevistada otorga un valor muy alto a la analítica en tiempo real. Destaca dos beneficios principales:
+- Anticipación: Identificar tendencias antes de que ocurra una descompensación.
+- Optimización Farmacológica: Correlacionar directamente el uso de medicamentos con las variaciones de glucosa para detectar efectos adversos o ajustar dosis con precisión.
+
+5. Validación y Estándares
+Para que una herramienta como GlucoSmart sea adoptada, la especialista pone condiciones claras:
+- Debe estar anclada a guías internacionales (como la ADA o KDIGO).
+- Debe garantizar la seguridad de los datos y la interoperabilidad con sistemas existentes.
+- Debe demostrar validez clínica y resultados proactivos.
+
+Se concluye con una recepción muy positiva hacia la propuesta de GlucoSmart, ya que ve en la aplicación una solución al problema de la adherencia del paciente y una vía directa para reducir hospitalizaciones y costos operativos mediante la detección precoz.
 
  
 
