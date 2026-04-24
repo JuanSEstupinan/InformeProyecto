@@ -28,8 +28,7 @@ Abril 2026-10
 | Versión | Fecha |   Autor    | Descripción de Modificación |
 | :-----: | :---: | :--------: | :-------------------------: |
 |  0\.1   | 10/04 | Jean Arias |                             |
-
-|  0\.1   | 01/04 | Jean Arias |                             |
+|  0\.1   | 23/04 | Juan Estupiñan | Realización de los puntos Lean UX Process, Entrevistas, y UI Design |
 
 # <a name="_toc226040380"></a>Project Report Collaboration Insights
 
